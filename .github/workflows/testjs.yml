@@ -20,4 +20,4 @@ jobs:
         run: npm install
 
       - name: Run JavaScript file
-        run: node file.js
+        run: node test.js
